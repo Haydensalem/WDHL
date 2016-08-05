@@ -1,0 +1,166 @@
+@media (min-width: 768px) {
+  .nav-colaps-content {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .nav-options {
+    display: none;
+  }
+}
+
+
+/*=================== END OF NAV ====================*/
+
+
+@media (max-width: 768px) {
+  .work-container h1 {
+    font-size: 20px;
+    margin-bottom: 8%;
+  }
+
+  @media (max-width: 800px) {
+  .our-partners {
+    margin-top: 8%;
+}
+
+
+  .feel-free-to-contact h1{
+    margin-top: 8%;
+    margin-bottom: 16%;
+    font-size: 18px;
+  } 
+
+  .right-form h1{
+    font-size: 16px;
+    margin-top: 20%;
+    text-align: center;
+  }
+  
+  .envelop {
+    display: none;
+  }
+  
+  .submit{
+    margin-left: 8%;
+    margin-top: 2%;
+    margin-bottom: 10%;
+  }
+
+ 
+}
+
+@media (max-width: 768px) {
+  .work-container {
+    margin-bottom: 8%;
+  }
+}
+
+
+@media (max-width: 767px) {
+  .work-container h1 {
+    position: absolute;
+  }
+
+  .we-provide-section-right{
+    height: 400px;
+  }
+
+  .we-provide-section-left{
+    margin-top: 8%;
+  }
+
+  .our-partners{
+    display: none;
+  }
+
+  .logo-container{
+    display: none;
+  }
+}
+
+@media (max-width: 767px) {
+  .some-of-our-work{
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 767px) {
+  .some-of-our-work{
+    margin-bottom:8%; 
+  }
+}
+
+@media (max-width: 767px) {
+  .arrow-down{
+    display: none;
+  }
+}
+
+@media (max-width: 767px) {
+  .footer h1{
+    text-align: center;
+  }
+  .Contact-Me-To-Hire{
+    margin-bottom: 12%;
+  }
+}
+
+/*=================== END OF WORK PAGE ====================*/
+
+@media (max-width: 767px) {
+  .footer p{
+    text-align: center;
+    margin-bottom: 5%;
+  }
+
+  .footer{
+    height: 600px;
+  }
+}
+
+@media (min-width: 1199px) {
+  .left-footer-sec{
+    width: 44%;
+  }
+}
+
+
+
+@media (max-width: 475px) {
+  .copyright h2{
+    font-size: 15px;
+  }
+}
+
+
+/*=================== END OF FOOTER ====================*/
+
+
+@media (max-width: 767px) {
+  .about-brief h1{
+    margin-bottom: 14%;
+    margin-top: 12%;
+  }
+
+  .team-circle-outer {
+    margin-top: -18%;
+  }
+
+  .vist-our-office h1{
+    margin-bottom: 18%;
+    margin-top: 20%;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
